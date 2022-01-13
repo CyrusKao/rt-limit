@@ -2,6 +2,8 @@
 
 A simple IP address based rate limiting module written in Typescript with zero dependencies.
 
+> See how it's implemented at [my blog post](https://nocache.org/p/build-a-ip-based-rate-limiting-module-in-node-js-with-typescript).
+
 ## Installation
 
 ```sh
